@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\bin\Debug\Atividade0109.exe.config
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\bin\Debug\Atividade0109.exe
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\bin\Debug\Atividade0109.pdb
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.exe
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.pdb
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\atvd0109\Atividade0109\Atividade0109\obj\Debug\Atividade0109.csproj.CopyComplete
